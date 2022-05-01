@@ -1,0 +1,22 @@
+{
+  "name": "reactsite",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikanW/react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "MikanW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikanW/react/issues"
+  },
+  "homepage": "https://github.com/MikanW/react#readme"
+}
